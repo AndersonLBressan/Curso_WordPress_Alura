@@ -1,0 +1,33 @@
+05 Para saber mais: instalação no Windows e no Linux
+ 
+Instalação no Windows
+Acesse o site oficial do LocalWP
+Vá até https://localwp.com e clique no botão "Download".
+Escolha o sistema operacional
+Selecione a opção "Windows", preencha com seu nome e e-mail e clique em "Get it Now".
+Instale o programa
+Quando o download terminar, clique no arquivo baixado e siga as instruções da instalação. Você pode aceitar as opções sugeridas pelo instalador.
+Abra o LocalWP
+Após a instalação, abra o LocalWP. Na primeira tela, você verá um botão para criar um novo site.
+Crie seu primeiro site
+Clique em “Create a new site”, dê um nome para o projeto e siga os passos indicados. O programa vai configurar tudo automaticamente para você.
+Acesse o painel do WordPress
+Depois que o site estiver criado, clique em “WP Admin”. Isso vai abrir o painel do WordPress no seu navegador, onde você poderá começar a montar o seu site.
+E se eu uso Linux?
+Atualmente, o LocalWP não é compatível oficialmente com Linux. Mas você ainda pode praticar e testar o WordPress usando outras alternativas mais acessíveis.
+
+Alternativa simples: usar um serviço online gratuito
+Se você não quer instalar nada agora, uma boa opção é usar um serviço online que simula um ambiente WordPress na nuvem. Alguns exemplos gratuitos (com limitações) são:
+
+Instawp (https://instawp.com)
+TasteWP (https://tastewp.com)
+Essas plataformas criam um site de testes temporário em poucos segundos. Você pode usar normalmente o painel do WordPress, instalar temas e explorar as funcionalidades, mesmo sem instalar nada no seu computador.
+
+Outra opção: instalar o WordPress manualmente
+Outra alternativa é instalar o WordPress direto no seu Linux, criando um ambiente local com ferramentas como XAMPP ou Bitnami. No entanto, esse processo envolve mais configurações e pode não ser ideal para quem está começando agora, já que exige conhecimento técnico.
+
+Conclusão
+Se você usa Windows, o LocalWP é a melhor escolha para criar seu ambiente de testes com WordPress.
+Se você usa Linux e está começando agora, o mais simples é utilizar um dos serviços online gratuitos sugeridos acima.
+O mais importante é ter um espaço seguro para experimentar, aprender e construir seu projeto, mesmo que ainda não seja um site definitivo.
+Com qualquer uma dessas opções, você consegue acompanhar o curso e aplicar os conceitos na prática, sem depender de hospedagem paga ou conhecimentos técnicos avançados.

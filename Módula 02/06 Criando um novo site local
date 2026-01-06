@@ -1,0 +1,18 @@
+06 Criando um novo site local
+
+Você está desenvolvendo um site usando o Local WP, ferramenta que permite criar e testar sites WordPress diretamente no seu computador, sem necessidade de hospedagem online. Ao iniciar um novo projeto, o Local WP oferece opções para configurar detalhes como nome do site, domínio local, pasta de instalação e configurações avançadas de servidor.
+
+Qual das ações abaixo faz parte do processo de criação de um novo site dentro do Local WP?
+
+Selecione uma alternativa
+
+A) Selecionar o tema WordPress oficial a ser usado antes de iniciar o download do Local WP.
+
+
+B) Configurar diretamente o banco de dados MySQL via terminal antes de criar o site no Local WP.
+
+
+C) Selecionar o domínio definitivo do site e conectá-lo a um provedor de hospedagem no momento da criação do site.
+
+
+D) Escolher entre as opções de servidor (Apache ou Nginx) e versão do PHP durante o processo de configuração avançada do novo site.
