@@ -1,5 +1,4 @@
 03 Para saber mais: como funcionam os Plugins
- 
 
 No WordPress, os plugins são peças modulares que ampliam as funcionalidades do sistema sem a necessidade de alterar seu núcleo. Esse mecanismo baseia-se na utilização de hooks – que incluem actions e filters – permitindo que desenvolvedoras e desenvolvedores insiram ou modifiquem comportamentos em pontos específicos da execução do código. Essa arquitetura facilita a manutenção e atualização, pois as alterações ficam encapsuladas em módulos separados.
 
